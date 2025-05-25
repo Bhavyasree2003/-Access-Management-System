@@ -1,6 +1,6 @@
 ﻿# -Access-Management-System
-User Access Management System
- 1. Introduction
+
+ # Introduction
  1.1 Purpose
  The purpose of this document is to outline the requirements for a basic User Access
  Management system. This system allows users to sign up, request access to software
