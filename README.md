@@ -203,3 +203,8 @@ Managers can approve or reject access requests.
 ### Admin
 - Manages software and settings
 - Has all permissions of Employee and Manager
+
+
+## 📽️ Demo Video
+
+[Click here to watch the demo video](https://github.com/Bhavyasree2003/-Access-Management-System/blob/main/demo_fqsZqCfh.mp4)
